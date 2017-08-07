@@ -10,4 +10,6 @@
 
 使用java剖析Android Code，分別分析AndroidManifest.xml / Intent / Layout
 可呈現出App的初步關聯
+
+
 使用語言與技術 : Java, android
